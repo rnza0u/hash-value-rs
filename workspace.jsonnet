@@ -1,0 +1,5 @@
+{
+    projects: {
+        'hash-value-rs': ''
+    }
+}
